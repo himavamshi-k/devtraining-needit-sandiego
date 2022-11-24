@@ -1,3 +1,4 @@
+<!--Students grades are uploaded by months-->
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sys_ui_view">
     <sys_ui_view action="INSERT_OR_UPDATE">
